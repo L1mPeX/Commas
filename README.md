@@ -5,3 +5,6 @@ In the folder with the Python script, move the file you want to process and give
 ``` sh
 pytnon commas.py
 ```
+Screenshot:
+
+<img src="screenshots/2.png" height="400" alt="Screenshot"/> 
